@@ -1,0 +1,281 @@
+NroItem,CodTransaccion,Nombre,NroFormulario,CodCampus,Marca,Categoria,Tipo,Valor Unitario,Proveedor,NroSerial,EmpresaResponsable,0,Ubicación,Codebar
+51,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0001,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39173,Campuslands,0,Salón Sputnik,CPU0001
+52,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0001,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070723,Campuslands,0,Salón Sputnik,MON0001
+53,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0001,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091706,Campuslands,0,Salón Sputnik,TE0001
+54,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0001,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0001
+55,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0002,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39208,Campuslands,0,Salón Sputnik,CPU0002
+56,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0002,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070880,Campuslands,0,Salón Sputnik,MON0002
+57,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0002,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090718,Campuslands,0,Salón Sputnik,TE0002
+58,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0002,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0002
+59,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0003,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39182,Campuslands,0,Salón Sputnik,CPU0003
+60,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0003,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070018,Campuslands,0,Salón Sputnik,MON0003
+61,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0003,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090717,Campuslands,0,Salón Sputnik,TE0003
+62,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0003,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0003
+63,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0004,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39190,Campuslands,0,Salón Sputnik,CPU0004
+64,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0004,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070876,Campuslands,0,Salón Sputnik,MON0004
+65,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0004,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090719,Campuslands,0,Salón Sputnik,TE0004
+66,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0004,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0004
+67,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0005,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39186,Campuslands,0,Salón Sputnik,CPU0005
+68,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0005,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070838,Campuslands,0,Salón Sputnik,MON0005
+69,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0005,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091718,Campuslands,0,Salón Sputnik,TE0005
+70,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0005,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0005
+71,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0006,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39198,Campuslands,0,Salón Sputnik,CPU0006
+72,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0006,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070638,Campuslands,0,Salón Sputnik,MON0006
+73,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0006,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091719,Campuslands,0,Salón Sputnik,TE0006
+74,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0006,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0006
+75,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0007,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55107,Campuslands,0,Salón Sputnik,CPU0007
+76,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0007,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070037,Campuslands,0,Salón Sputnik,MON0007
+77,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0007,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091731,Campuslands,0,Salón Sputnik,TE0007
+78,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0007,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0007
+79,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0008,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55106,Campuslands,0,Salón Sputnik,CPU0008
+80,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0008,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070115,Campuslands,0,Salón Sputnik,MON0008
+81,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0008,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091732,Campuslands,0,Salón Sputnik,TE0008
+82,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0008,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0008
+83,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0009,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39204,Campuslands,0,Salón Sputnik,CPU0009
+84,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0009,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070874,Campuslands,0,Salón Sputnik,MON0009
+85,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0009,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090731,Campuslands,0,Salón Sputnik,TE0009
+86,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0009,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0009
+87,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0010,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39214,Campuslands,0,Salón Sputnik,CPU0010
+88,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0010,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070105,Campuslands,0,Salón Sputnik,MON0010
+89,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0010,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090732,Campuslands,0,Salón Sputnik,TE0010
+90,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0010,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0010
+91,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0011,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39189,Campuslands,0,Salón Sputnik,CPU0011
+92,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0011,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070010,Campuslands,0,Salón Sputnik,MON0011
+93,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0011,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091733,Campuslands,0,Salón Sputnik,TE0011
+94,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0011,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0011
+95,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0012,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39223,Campuslands,0,Salón Sputnik,CPU0012
+96,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0012,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070109,Campuslands,0,Salón Sputnik,MON0012
+97,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0012,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090703,Campuslands,0,Salón Sputnik,TE0012
+98,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0012,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0012
+99,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0013,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39229,Campuslands,0,Salón Sputnik,CPU0013
+100,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0013,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070502,Campuslands,0,Salón Sputnik,MON0013
+101,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0013,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090708,Campuslands,0,Salón Sputnik,TE0013
+102,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0013,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0013
+103,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0014,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39178,Campuslands,0,Salón Sputnik,CPU0014
+104,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0014,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070136,Campuslands,0,Salón Sputnik,MON0014
+105,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0014,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091708,Campuslands,0,Salón Sputnik,TE0014
+106,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0014,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0014
+107,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0015,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39196,Campuslands,0,Salón Sputnik,CPU0015
+108,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0015,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070001,Campuslands,0,Salón Sputnik,MON0015
+109,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0015,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091707,Campuslands,0,Salón Sputnik,TE0015
+110,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0015,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0015
+111,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0016,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55081,Campuslands,0,Salón Sputnik,CPU0016
+112,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0016,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070846,Campuslands,0,Salón Sputnik,MON0016
+113,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0016,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090709,Campuslands,0,Salón Sputnik,TE0016
+114,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0016,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0016
+115,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0017,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39183,Campuslands,0,Salón Sputnik,CPU0017
+116,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0017,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070211,Campuslands,0,Salón Sputnik,MON0017
+117,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0017,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091709,Campuslands,0,Salón Sputnik,TE0017
+118,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0017,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0017
+119,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0018,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55098,Campuslands,0,Salón Sputnik,CPU0018
+120,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0018,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070733,Campuslands,0,Salón Sputnik,MON0018
+121,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0018,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090710,Campuslands,0,Salón Sputnik,TE0018
+122,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0018,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0018
+123,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0019,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55108,Campuslands,0,Salón Sputnik,CPU0019
+124,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0019,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070287,Campuslands,0,Salón Sputnik,MON0019
+125,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0019,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091748,Campuslands,0,Salón Sputnik,TE0019
+126,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0019,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0019
+127,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0020,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39224,Campuslands,0,Salón Sputnik,CPU0020
+128,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0020,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070629,Campuslands,0,Salón Sputnik,MON0020
+129,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0020,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090748,Campuslands,0,Salón Sputnik,TE0020
+130,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0020,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,,Campuslands,0,Salón Sputnik,MO0020
+131,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0021,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39179,Campuslands,0,Salón Sputnik,CPU0021
+132,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0021,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070188,Campuslands,0,Salón Sputnik,MON0021
+133,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0021,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090749,Campuslands,0,Salón Sputnik,TE0021
+134,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0021,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0021
+135,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0022,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55092,Campuslands,0,Salón Sputnik,CPU0022
+136,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0022,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070050,Campuslands,0,Salón Sputnik,MON0022
+137,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0022,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090705,Campuslands,0,Salón Sputnik,TE0022
+138,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0022,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0022
+139,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0023,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39187,Campuslands,0,Salón Sputnik,CPU0023
+140,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0023,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070663,Campuslands,0,Salón Sputnik,MON0023
+141,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0023,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090733,Campuslands,0,Salón Sputnik,TE0023
+142,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0023,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0023
+143,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0024,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39200,Campuslands,0,Salón Sputnik,CPU0024
+144,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0024,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070705,Campuslands,0,Salón Sputnik,MON0024
+145,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0024,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091705,Campuslands,0,Salón Sputnik,TE0024
+146,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0024,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0024
+147,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0025,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55091,Campuslands,0,Salón Sputnik,CPU0025
+148,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0025,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070754,Campuslands,0,Salón Sputnik,MON0025
+149,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0025,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091701,Campuslands,0,Salón Sputnik,TE0025
+150,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0025,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0025
+151,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0026,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39237,Campuslands,0,Salón Sputnik,CPU0026
+152,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0026,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070394,Campuslands,0,Salón Sputnik,MON0026
+153,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0026,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091751,Campuslands,0,Salón Sputnik,TE0026
+154,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0026,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0026
+155,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0027,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55099,Campuslands,0,Salón Sputnik,CPU0027
+156,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0027,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070683,Campuslands,0,Salón Sputnik,MON0027
+157,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0027,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090751,Campuslands,0,Salón Sputnik,TE0027
+158,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0027,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0027
+159,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0028,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39184,Campuslands,0,Salón Sputnik,CPU0028
+160,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0028,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070520,Campuslands,0,Salón Sputnik,MON0028
+161,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0028,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091717,Campuslands,0,Salón Sputnik,TE0028
+162,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0028,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0028
+163,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0029,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39180,Campuslands,0,Salón Sputnik,CPU0029
+164,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0029,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070374,Campuslands,0,Salón Sputnik,MON0029
+165,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0029,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090704,Campuslands,0,Salón Sputnik,TE0029
+166,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0029,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0029
+167,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0030,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39199,Campuslands,0,Salón Sputnik,CPU0030
+168,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0030,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070711,Campuslands,0,Salón Sputnik,MON0030
+169,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0030,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091715,Campuslands,0,Salón Sputnik,TE0030
+170,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0030,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0030
+171,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0031,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55105,Campuslands,0,Salón Sputnik,CPU0031
+172,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0031,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070043,Campuslands,0,Salón Sputnik,MON0031
+173,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0031,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,UD18J2C00169,Campuslands,0,Salón Sputnik,TE0031
+174,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0031,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0031
+175,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0032,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55097,Campuslands,0,Salón Sputnik,CPU0032
+176,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0032,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070151,Campuslands,0,Salón Sputnik,MON0032
+177,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0032,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090716,Campuslands,0,Salón Sputnik,TE0032
+178,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0032,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0032
+179,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0033,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55104,Campuslands,0,Salón Sputnik,CPU0033
+180,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0033,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070127,Campuslands,0,Salón Sputnik,MON0033
+181,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0033,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090715,Campuslands,0,Salón Sputnik,TE0033
+182,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0033,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0033
+183,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0034,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55084,Campuslands,0,Salón Sputnik,CPU0034
+184,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0034,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070029,Campuslands,0,Salón Sputnik,MON0034
+185,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0034,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091714,Campuslands,0,Salón Sputnik,TE0034
+186,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0034,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0034
+187,327,CPU - Bodg50-9051-900-0017 GMR ESC   ,966217823,CPU0035,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39194,Campuslands,0,Salón Sputnik,CPU0035
+188,327,Monitor - Bodg50-9051-900-0017 GMR ESC   ,966217823,MON0035,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070135,Campuslands,0,Salón Sputnik,MON0035
+189,327,Teclado - Bodg50-9051-900-0017 GMR ESC   ,966217823,TE0035,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090714,Campuslands,0,Salón Sputnik,TE0035
+190,327,Mouse - Bodg50-9051-900-0017 GMR ESC   ,966217823,MO0035,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Sputnik,MO0035
+192,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0036,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39175,Campuslands,0,Salón Apolo,CPU0036
+193,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0036,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070257,Campuslands,0,Salón Apolo,MON0036
+194,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0036,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091739,Campuslands,0,Salón Apolo,TE0036
+195,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0036,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0036
+196,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0037,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39206,Campuslands,0,Salón Apolo,CPU0037
+197,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0037,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070609,Campuslands,0,Salón Apolo,MON0037
+198,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0037,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091743,Campuslands,0,Salón Apolo,TE0037
+199,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0037,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0037
+200,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0038,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39212,Campuslands,0,Salón Apolo,CPU0038
+201,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0038,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070778,Campuslands,0,Salón Apolo,MON0038
+202,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0038,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090742,Campuslands,0,Salón Apolo,TE0038
+203,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0038,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0038
+204,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0039,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39217,Campuslands,0,Salón Apolo,CPU0039
+205,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0039,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070069,Campuslands,0,Salón Apolo,MON0039
+206,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0039,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091742,Campuslands,0,Salón Apolo,TE0039
+207,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0039,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0039
+208,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0040,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39203,Campuslands,0,Salón Apolo,CPU0040
+209,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0040,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070349,Campuslands,0,Salón Apolo,MON0040
+210,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0040,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090743,Campuslands,0,Salón Apolo,TE0040
+211,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0040,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0040
+212,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0041,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39201,Campuslands,0,Salón Apolo,CPU0041
+213,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0041,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070004,Campuslands,0,Salón Apolo,MON0041
+214,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0041,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091710,Campuslands,0,Salón Apolo,TE0041
+215,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0041,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0041
+216,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0042,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39207,Campuslands,0,Salón Apolo,CPU0042
+217,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0042,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070727,Campuslands,0,Salón Apolo,MON0042
+218,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0042,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090728,Campuslands,0,Salón Apolo,TE0042
+219,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0042,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0042
+220,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0043,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39170,Campuslands,0,Salón Apolo,CPU0043
+221,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0043,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070063,Campuslands,0,Salón Apolo,MON0043
+222,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0043,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090729,Campuslands,0,Salón Apolo,TE0043
+223,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0043,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0043
+224,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0044,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39193,Campuslands,0,Salón Apolo,CPU0044
+225,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0044,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070203,Campuslands,0,Salón Apolo,MON0044
+226,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0044,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091734,Campuslands,0,Salón Apolo,TE0044
+227,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0044,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0044
+228,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0045,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39213,Campuslands,0,Salón Apolo,CPU0045
+229,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0045,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070517,Campuslands,0,Salón Apolo,MON0045
+230,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0045,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090735,Campuslands,0,Salón Apolo,TE0045
+231,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0045,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0045
+232,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0046,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39197,Campuslands,0,Salón Apolo,CPU0046
+233,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0046,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070007,Campuslands,0,Salón Apolo,MON0046
+234,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0046,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090734,Campuslands,0,Salón Apolo,TE0046
+235,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0046,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0046
+236,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0047,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55078,Campuslands,0,Salón Apolo,CPU0047
+237,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0047,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070008,Campuslands,0,Salón Apolo,MON0047
+238,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0047,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090750,Campuslands,0,Salón Apolo,TE0047
+239,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0047,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0047
+240,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0048,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55085,Campuslands,0,Salón Apolo,CPU0048
+241,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0048,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070117,Campuslands,0,Salón Apolo,MON0048
+242,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0048,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091713,Campuslands,0,Salón Apolo,TE0048
+243,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0048,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0048
+244,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0049,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39233,Campuslands,0,Salón Apolo,CPU0049
+245,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0049,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070277,Campuslands,0,Salón Apolo,MON0049
+246,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0049,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090713,Campuslands,0,Salón Apolo,TE0049
+247,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0049,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0049
+248,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0050,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55082,Campuslands,0,Salón Apolo,CPU0050
+249,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0050,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070406,Campuslands,0,Salón Apolo,MON0050
+250,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0050,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091712,Campuslands,0,Salón Apolo,TE0050
+251,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0050,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0050
+252,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0051,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55101,Campuslands,0,Salón Apolo,CPU0051
+253,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0051,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070557,Campuslands,0,Salón Apolo,MON0051
+254,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0051,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091711,Campuslands,0,Salón Apolo,TE0051
+255,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0051,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0051
+256,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0052,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39192,Campuslands,0,Salón Apolo,CPU0052
+257,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0052,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070853,Campuslands,0,Salón Apolo,MON0052
+258,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0052,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090712,Campuslands,0,Salón Apolo,TE0052
+259,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0052,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0052
+260,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0053,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39181,Campuslands,0,Salón Apolo,CPU0053
+261,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0053,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070893,Campuslands,0,Salón Apolo,MON0053
+262,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0053,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090711,Campuslands,0,Salón Apolo,TE0053
+263,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0053,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0053
+264,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0054,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39195,Campuslands,0,Salón Apolo,CPU0054
+265,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0054,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070898,Campuslands,0,Salón Apolo,MON0054
+266,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0054,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091741,Campuslands,0,Salón Apolo,TE0054
+267,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0054,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0054
+268,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0055,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39232,Campuslands,0,Salón Apolo,CPU0055
+269,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0055,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070400,Campuslands,0,Salón Apolo,MON0055
+270,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0055,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091740,Campuslands,0,Salón Apolo,TE0055
+271,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0055,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0055
+272,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0056,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39231,Campuslands,0,Salón Apolo,CPU0056
+273,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0056,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070761,Campuslands,0,Salón Apolo,MON0056
+274,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0056,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090739,Campuslands,0,Salón Apolo,TE0056
+275,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0056,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0056
+276,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0057,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39171,Campuslands,0,Salón Apolo,CPU0057
+277,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0057,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070534,Campuslands,0,Salón Apolo,MON0057
+278,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0057,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090741,Campuslands,0,Salón Apolo,TE0057
+279,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0057,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0057
+280,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0058,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39220,Campuslands,0,Salón Apolo,CPU0058
+281,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0058,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070017,Campuslands,0,Salón Apolo,MON0058
+282,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0058,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091750,Campuslands,0,Salón Apolo,TE0058
+283,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0058,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0058
+284,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0059,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55100,Campuslands,0,Salón Apolo,CPU0059
+285,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0059,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070281,Campuslands,0,Salón Apolo,MON0059
+286,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0059,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091749,Campuslands,0,Salón Apolo,TE0059
+287,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0059,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0059
+288,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0060,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39236,Campuslands,0,Salón Apolo,CPU0060
+289,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0060,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070205,Campuslands,0,Salón Apolo,MON0060
+290,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0060,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090740,Campuslands,0,Salón Apolo,TE0060
+291,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0060,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0060
+292,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0061,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39216,Campuslands,0,Salón Apolo,CPU0061
+293,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0061,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070041,Campuslands,0,Salón Apolo,MON0061
+294,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0061,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091728,Campuslands,0,Salón Apolo,TE0061
+295,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0061,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0061
+296,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0062,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39176,Campuslands,0,Salón Apolo,CPU0062
+297,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0062,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070712,Campuslands,0,Salón Apolo,MON0062
+298,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0062,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090727,Campuslands,0,Salón Apolo,TE0062
+299,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0062,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0062
+300,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0063,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55077,Campuslands,0,Salón Apolo,CPU0063
+301,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0063,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070129,Campuslands,0,Salón Apolo,MON0063
+302,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0063,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091727,Campuslands,0,Salón Apolo,TE0063
+303,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0063,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0063
+304,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0064,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39211,Campuslands,0,Salón Apolo,CPU0064
+305,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0064,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070140,Campuslands,0,Salón Apolo,MON0064
+306,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0064,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091726,Campuslands,0,Salón Apolo,TE0064
+307,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0064,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0064
+308,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0065,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39219,Campuslands,0,Salón Apolo,CPU0065
+309,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0065,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070316,Campuslands,0,Salón Apolo,MON0065
+310,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0065,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090725,Campuslands,0,Salón Apolo,TE0065
+311,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0065,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0065
+312,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0066,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,102SN55093,Campuslands,0,Salón Apolo,CPU0066
+313,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0066,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070153,Campuslands,0,Salón Apolo,MON0066
+314,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0066,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090726,Campuslands,0,Salón Apolo,TE0066
+315,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0066,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0066
+316,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0067,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39210,Campuslands,0,Salón Apolo,CPU0067
+317,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0067,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070744,Campuslands,0,Salón Apolo,MON0067
+318,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0067,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091752,Campuslands,0,Salón Apolo,TE0067
+319,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0067,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0067
+320,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0068,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39168,Campuslands,0,Salón Apolo,CPU0068
+321,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0068,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070830,Campuslands,0,Salón Apolo,MON0068
+322,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0068,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130090753,Campuslands,0,Salón Apolo,TE0068
+323,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0068,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0068
+324,327,CPU-Bodg50-9048-900-0044 GMRESC R3,966217823,CPU0069,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39191,Campuslands,0,Salón Apolo,CPU0069
+325,327,Monitor-Bodg50-9048-900-0044 GMRESC R3,966217823,MON0069,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070407,Campuslands,0,Salón Apolo,MON0069
+326,327,Teclado-Bodg50-9048-900-0044 GMRESC R3,966217823,TE0069,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091753,Campuslands,0,Salón Apolo,TE0069
+327,327,Mouse-Bodg50-9048-900-0044 GMRESC R3,966217823,MO0069,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0069
+328,327,CPU-Bodg50-9048-900-0044 GMRESC R4,966217823,CPU0070,Campumax,Equipo de computo,CPU,4000,Compumax Computer ,400SN39192,Campuslands,0,Salón Apolo,CPU0070
+329,327,Monitor-Bodg50-9048-900-0044 GMRESC R4,966217823,MON0070,Campumax,Equipo de computo,MONITOR,2000,Compumax Computer ,COM2024CM21070408,Campuslands,0,Salón Apolo,MON0070
+330,327,Teclado-Bodg50-9048-900-0044 GMRESC R4,966217823,TE0070,Campumax,Equipo de computo,TECLADO,1200,Compumax Computer ,KBM130091754,Campuslands,0,Salón Apolo,TE0070
+331,327,Mouse-Bodg50-9048-900-0044 GMRESC R4,966217823,MO0070,Campumax,Equipo de computo,MOUSE,300,Compumax Computer ,Sin serial ,Campuslands,0,Salón Apolo,MO0070
